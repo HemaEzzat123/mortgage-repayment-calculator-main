@@ -357,7 +357,7 @@ input[type="radio"]:checked::before {
   }
 }
 
-@media (max-width: 390px) {
+@media (max-width: 430px) {
   body {
     height: 100vh;
   }
